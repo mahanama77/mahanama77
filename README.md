@@ -7,7 +7,7 @@
 - 💬 Ask me about **React**
 - 📫 How to reach me: [contactmahanama@gmail.com]
 - ⚡ Fun fact:Singing
--  `#0969DA`
+
 
 <!--
 **mahanama77/mahanama77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
