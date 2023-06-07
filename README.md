@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi👋 I am Hasindu Mahanama
+
+--A passionate web developer from Sri Lanka--
+
+- 🌱 I’m currently learning .NET 7
+- 👯 I’m looking to collaborate on **Open source projects**
+- 💬 Ask me about **React**
+- 📫 How to reach me: [contactmahanama@gmail.com]
+- ⚡ Fun fact:Singing
+-  `#0969DA`
 
 <!--
 **mahanama77/mahanama77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
