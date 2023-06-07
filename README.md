@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Open source projects**
 - 💬 Ask me about **React**
 - 📫 How to reach me: [contactmahanama@gmail.com]
-- ⚡ Fun fact:Singing
+- ⚡ Fun fact: Singing
 
 
 <!--
