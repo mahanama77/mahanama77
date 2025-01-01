@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/mahanamahasindu" target="blank"><img src="https://img.shields.io/twitter/follow/mahanamahasindu?logo=twitter&style=for-the-badge" alt="mahanamahasindu" /></a> </p>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **ML Advanced**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and .NET**
 
 - 📫 How to reach me **contactmahanama@gmail.com**
 
