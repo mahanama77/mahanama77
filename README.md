@@ -1,6 +1,6 @@
 # Hi, I'm Hasindu Mahanama 👋
 
-### Software Engineer | Full-Stack Web Developer | AI Enthusiast
+### Former Software Engineering Intern | Final-Year Undergraduate, UoM | Full-Stack Web Developer | AI Enthusiast
 
 Welcome to my GitHub profile! I’m a passionate **Software Engineer** from **Sri Lanka**, with a strong focus on **web development** and **AI-driven applications**. I love solving problems with technology and continuously learning new tools and frameworks to stay at the top of my game.
 
@@ -35,16 +35,17 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** from **Sr
 ## 📫 How to Reach Me
 - **Email:** [contactmahanama@gmail.com](mailto:contactmahanama@gmail.com)
 - **LinkedIn:** [Hasindu Mahanama](https://linkedin.com/in/hasindu-dilanka-mahanama-0916b5219)
-- **Twitter:** [@mahanamahasindu](https://twitter.com/mahanamahasindu)
+- **X:** [@mahanamahasindu](https://x.com/mahanamahasindu)
 - **HackerRank:** [zfour_cr](https://www.hackerrank.com/zfour_cr)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahanama77&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mahanama77&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahanama77&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mahanama77&layout=compact&theme=radical&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahanama77&theme=radical)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=mahanama77&bg_color=2E3440&color=88C0D0&line=81A1C1&point=88C0D0&area=true&hide_border=true)
 
 ---
 
