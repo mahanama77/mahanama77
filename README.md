@@ -1,6 +1,6 @@
 # Hi, I'm Hasindu Mahanama 👋
 
-### Former Software Engineer Intern | Final-Year Undergraduate | AI Enthusiast | Web Developer
+### Former Software Engineer Intern | Final-Year Undergraduate | AI Enthusiast | Full-Stack Web Developer
 
 Welcome to my **GitHub Profile**! I’m a passionate **Software Engineer** from **Sri Lanka**, with a strong focus on **Web Development**, **AI**, and **Machine Learning**. I love solving complex problems through technology and constantly learning new frameworks and tools.
 
