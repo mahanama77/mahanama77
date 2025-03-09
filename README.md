@@ -69,9 +69,3 @@ Check out my portfolio where I showcase my web and AI projects:
 ## 🎯 Let's Collaborate
 
 Feel free to reach out to me for collaboration on any exciting projects. Let’s build something innovative together!
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mahanama77/mahanama77/master/images/illustration.svg" width="400" alt="AI & Web Development"/>
-</div>
