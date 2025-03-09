@@ -1,15 +1,16 @@
 # Hi, I'm Hasindu Mahanama 👋
 
-### Former Software Engineering Intern | Final-Year Undergraduate, UoM | Full-Stack Web Developer | AI Enthusiast
+### Former Software Engineer Intern | Final-Year Undergraduate | AI Enthusiast | Web Developer
 
-Welcome to my GitHub profile! I’m a passionate **Software Engineer** from **Sri Lanka**, with a strong focus on **web development** and **AI-driven applications**. I love solving problems with technology and continuously learning new tools and frameworks to stay at the top of my game.
+Welcome to my **GitHub Profile**! I’m a passionate **Software Engineer** from **Sri Lanka**, with a strong focus on **Web Development**, **AI**, and **Machine Learning**. I love solving complex problems through technology and constantly learning new frameworks and tools.
 
 ---
 
 ## 🚀 What I'm Currently Working On
+
 - 🌱 Learning **Advanced Machine Learning** and **AI**
 - 👯 Open to collaborating on **Open-Source Projects**
-- 💻 Building scalable **web applications** with **React** and **.NET**
+- 💻 Building scalable **web applications** with **React** and **.NET Core**
 - 📚 Exploring **ASP.NET Core** and **modern frontend frameworks**
 
 ---
@@ -17,22 +18,47 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** from **Sr
 ## 🛠 Skills & Technologies
 
 ### Frontend
-- React.js, Next.js, JavaScript, TypeScript, HTML, CSS
+- **React.js**, **Next.js**, **JavaScript**, **TypeScript**, **HTML5**, **CSS3**, **SASS**, **Tailwind CSS**
 
 ### Backend & Databases
-- Node.js, Express.js, .NET Core, Python (Flask/Django)
-- SQL Server, MySQL, MongoDB
+- **Node.js**, **Express.js**, **.NET Core**, **Python (Flask/Django)**
+- **SQL Server**, **MySQL**, **MongoDB**
 
 ### AI & Data Science
-- Machine Learning (scikit-learn, TensorFlow, BERT, NLP)
-- Data Analysis & Visualization
+- **Machine Learning** (scikit-learn, TensorFlow, **BERT**, NLP)
+- **Data Analysis** & **Visualization** (Matplotlib, Seaborn, Plotly)
 
 ### Tools
-- Git, Docker, Kubernetes, Postman, CI/CD
+- **Git**, **Docker**, **Kubernetes**, **Postman**, **CI/CD**
+
+---
+
+## 📊 GitHub Stats
+
+### 🚀 GitHub Stats & Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahanama77&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="48%" alt="Hasindu GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahanama77&show_icons=true&theme=tokyonight&layout=compact&count_private=true" width="48%" alt="Top Languages"/>
+</div>
+
+### 🏅 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahanama77&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🖥️ Portfolio
+
+Check out my portfolio where I showcase my web and AI projects:  
+[Hasindu Mahanama Portfolio](https://mahanama77.github.io/)
 
 ---
 
 ## 📫 How to Reach Me
+
 - **Email:** [contactmahanama@gmail.com](mailto:contactmahanama@gmail.com)
 - **LinkedIn:** [Hasindu Mahanama](https://linkedin.com/in/hasindu-dilanka-mahanama-0916b5219)
 - **X:** [@mahanamahasindu](https://x.com/mahanamahasindu)
@@ -40,13 +66,12 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** from **Sr
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Let's Collaborate
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahanama77&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mahanama77&layout=compact&theme=radical&hide_title=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahanama77&theme=radical)
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=mahanama77&bg_color=2E3440&color=88C0D0&line=81A1C1&point=88C0D0&area=true&hide_border=true)
+Feel free to reach out to me for collaboration on any exciting projects. Let’s build something innovative together!
 
 ---
 
-🚀 **Let's connect and build something amazing!**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mahanama77/mahanama77/master/images/illustration.svg" width="400" alt="AI & Web Development"/>
+</div>
