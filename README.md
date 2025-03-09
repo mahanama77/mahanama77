@@ -1,33 +1,51 @@
-<h1 align="center">Hi 👋, I'm Hasindu Mahanama</h1>
-<h3 align="center">A passionate web developer f<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">rom Sri Lanka</h3>
+# Hi, I'm Hasindu Mahanama 👋
 
+### Software Engineer | Full-Stack Web Developer | AI Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahanama77&label=Profile%20views&color=0e75b6&style=flat" alt="mahanama77" /> </p>
+Welcome to my GitHub profile! I’m a passionate **Software Engineer** from **Sri Lanka**, with a strong focus on **web development** and **AI-driven applications**. I love solving problems with technology and continuously learning new tools and frameworks to stay at the top of my game.
 
-<p align="left"> <a href="https://twitter.com/mahanamahasindu" target="blank"><img src="https://img.shields.io/twitter/follow/mahanamahasindu?logo=twitter&style=for-the-badge" alt="mahanamahasindu" /></a> </p>
+---
 
-- 🌱 I’m currently learning **ML Advanced**
+## 🚀 What I'm Currently Working On
+- 🌱 Learning **Advanced Machine Learning** and **AI**
+- 👯 Open to collaborating on **Open-Source Projects**
+- 💻 Building scalable **web applications** with **React** and **.NET**
+- 📚 Exploring **ASP.NET Core** and **modern frontend frameworks**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+---
 
-- 💬 Ask me about **React and .NET**
+## 🛠 Skills & Technologies
 
-- 📫 How to reach me **contactmahanama@gmail.com**
+### Frontend
+- React.js, Next.js, JavaScript, TypeScript, HTML, CSS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahanamahasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahanamahasindu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasindu-dilanka-mahanama-0916b5219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasindu-dilanka-mahanama-0916b5219" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hasindu-mahanama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hasindu-mahanama" height="30" width="40" /></a>
-<a href="https://medium.com/@mahanama7722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahanama7722" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zfour_cr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zfour_cr" height="30" width="40" /></a>
-</p>
+### Backend & Databases
+- Node.js, Express.js, .NET Core, Python (Flask/Django)
+- SQL Server, MySQL, MongoDB
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### AI & Data Science
+- Machine Learning (scikit-learn, TensorFlow, BERT, NLP)
+- Data Analysis & Visualization
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahanama77&show_icons=true&locale=en&layout=compact" alt="mahanama77" /></p>
+### Tools
+- Git, Docker, Kubernetes, Postman, CI/CD
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahanama77&show_icons=true&locale=en" alt="mahanama77" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahanama77&" alt="mahanama77" /></p>
+## 📫 How to Reach Me
+- **Email:** [contactmahanama@gmail.com](mailto:contactmahanama@gmail.com)
+- **LinkedIn:** [Hasindu Mahanama](https://linkedin.com/in/hasindu-dilanka-mahanama-0916b5219)
+- **Twitter:** [@mahanamahasindu](https://twitter.com/mahanamahasindu)
+- **HackerRank:** [zfour_cr](https://www.hackerrank.com/zfour_cr)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahanama77&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mahanama77&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahanama77&theme=radical)
+
+---
+
+🚀 **Let's connect and build something amazing!**
