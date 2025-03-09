@@ -29,7 +29,7 @@ Welcome to my **GitHub Profile**! I’m a passionate **Software Engineer** from 
 - **Data Analysis** & **Visualization** (Matplotlib, Seaborn, Plotly)
 
 ### Tools
-- **Git**, **Docker**, **Kubernetes**, **Postman**, **CI/CD**
+- **Docker**, **Kubernetes**, **Postman**
 
 ---
 
@@ -62,7 +62,6 @@ Check out my portfolio where I showcase my web and AI projects:
 - **Email:** [contactmahanama@gmail.com](mailto:contactmahanama@gmail.com)
 - **LinkedIn:** [Hasindu Mahanama](https://linkedin.com/in/hasindu-dilanka-mahanama-0916b5219)
 - **X:** [@mahanamahasindu](https://x.com/mahanamahasindu)
-- **HackerRank:** [zfour_cr](https://www.hackerrank.com/zfour_cr)
 
 ---
 
